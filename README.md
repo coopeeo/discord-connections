@@ -1,1 +1,3 @@
-# discord-connections
+# DiscordConnections
+
+This is where she makes a mod.

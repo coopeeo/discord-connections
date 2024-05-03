@@ -1,0 +1,19 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": {
+    	"android": "2.205",
+    	"win": "2.204",
+    	"mac": "2.200",
+    	"ios": "2.205"
+  	},
+	"version": "v1.0.0",
+	"id": "coopeeo.connectdis",
+	"name": "Discord Connections",
+	"developer": "Cooper",
+	"repository": "https://github.com/coopeeo/discord-connections",
+	"description": "Connect your Discord! also made by uproxide",
+	"issues": {
+		"info": "GitHub",
+		"url": "https://github.com/coopeeo/discord-connections/issues"
+	}
+}
